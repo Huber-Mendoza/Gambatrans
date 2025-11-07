@@ -1,7 +1,7 @@
 {
   "name": "GambaTrans",
   "short_name": "GambaTrans",
-  "start_url": "https://gambatrans.blogspot.com/p/entradas-en-bloques.html",
+  "start_url": "https://gambatrans.blogspot.com/",
   "display": "standalone",
   "background_color": "#0a1f33",
   "theme_color": "#1e9c89",
@@ -24,3 +24,4 @@
     }
   ]
 }
+
